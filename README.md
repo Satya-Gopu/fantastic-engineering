@@ -18,7 +18,7 @@ The places I often visit
 - http://engineering.2359media.net/
 
 ## Raizlabs
-- http://www.raizlabs.com/news/
+- http://www.raizlabs.com/dev/
 
 ## Atomic Object
 - http://spin.atomicobject.com/
