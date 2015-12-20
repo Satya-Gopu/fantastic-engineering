@@ -5,6 +5,9 @@ The places I often visit
 - http://artsy.github.io/
 - https://github.com/artsy/mobile/
 
+## Apple
+- https://swift.org/blog/
+
 ## Thoughtbot
 - https://robots.thoughtbot.com/
 
