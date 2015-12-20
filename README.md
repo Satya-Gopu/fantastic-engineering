@@ -8,7 +8,7 @@ The places I often visit
 ## Thoughtbot
 - https://robots.thoughtbot.com/
 
-## Yatlantis
+## Yalantis
 - https://yalantis.com/blog/
 
 ## 2359 Media
