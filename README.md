@@ -1,7 +1,7 @@
 # Engineering
 The places I often visit
 
-## Arsty
+## Artsy
 - http://artsy.github.io/
 - https://github.com/artsy/mobile/
 
