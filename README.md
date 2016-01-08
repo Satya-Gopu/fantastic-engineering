@@ -44,5 +44,8 @@ The places I often visit
 ## Yelp
 - http://engineeringblog.yelp.com/
 
+## Macoscope
+- http://macoscope.com/blog/
+
 ## Airbnb
 - http://nerds.airbnb.com/
