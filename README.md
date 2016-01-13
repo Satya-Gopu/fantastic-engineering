@@ -16,15 +16,21 @@ All about software engineering
 
 # Activities
 
-### [Future Fridays - Artsy](http://artsy.github.io/blog/2015/12/22/future-fridays/)
+### Artsy
+- [Future Fridays](http://artsy.github.io/blog/2015/12/22/future-fridays/)
 > We recently introduced "Future Fridays" to help dedicate time to longer-term, open-ended work despite these urgent temptations. Each Friday, we give ourselves permission to suspend our usual work
 
-### [ShipIt - Atlassian](https://www.atlassian.com/company/shipit)
+### Atlassian
+- [ShipIt - Atlassian](https://www.atlassian.com/company/shipit)
 > 24 hours to innovate. It's like 20% time. On steroids. Find what inspires you. Develop that dream feature.
 
-### [Peer Lab](http://artsy.github.io/blog/2015/08/10/peer-lab/)
+### Peer Lab
+- [Peer Lab](http://artsy.github.io/blog/2015/08/10/peer-lab/)
 > Developers gather in a physical space to work on things. If someone has a question, they ask the group. If you can help, you offer assistance. The goal is to foster a collaborative learning environment where everyone feels fulfilled.
 
+### Thoughtbot
+- [Investment Time](https://thoughtbot.com/jobs)
+> On Fridays, we have “investment time” when we learn new tools and techniques, work on open source, create new products, write blog posts, and try to make ourselves, each other, and the community better.
 
 # Environment
 
