@@ -1,5 +1,5 @@
 # Engineering
-The places I often visit
+All about software engineering
 
 # Resources
 
@@ -10,53 +10,77 @@ The places I often visit
 - [Programming Tips](http://www.yacoset.com/Home/programming-tips)
 - [HowToBeAProgrammer](https://github.com/braydie/HowToBeAProgrammer)
 
+# Activities
+
+### [Future Fridays - Artsy](http://artsy.github.io/blog/2015/12/22/future-fridays/)
+> We recently introduced "Future Fridays" to help dedicate time to longer-term, open-ended work despite these urgent temptations. Each Friday, we give ourselves permission to suspend our usual work
+
+### [ShipIt - Atlassian](https://www.atlassian.com/company/shipit)
+> 24 hours to innovate. It's like 20% time. On steroids. Find what inspires you. Develop that dream feature.
+
+### [Peer Lab](http://artsy.github.io/blog/2015/08/10/peer-lab/)
+> Developers gather in a physical space to work on things. If someone has a question, they ask the group. If you can help, you offer assistance. The goal is to foster a collaborative learning environment where everyone feels fulfilled.
+
+# Playbook
+
+### Thoughtbot
+- https://playbook.thoughtbot.com/
+
+# Environment
+
+### Basecamp
+- https://m.signalvnoise.com/employee-benefits-at-basecamp-d2d46fd06c58#.sowqf2pl7
+
+### Github
+- https://www.youtube.com/watch?v=i0FzgvYxdvk
+
 # Blogs
 
-## Artsy
+### Artsy
 - http://artsy.github.io/
 - https://github.com/artsy/mobile/
 
-## Apple
+### Apple
 - https://swift.org/blog/
 
-## Thoughtbot
+### Thoughtbot
 - https://robots.thoughtbot.com/
 
 ## Yalantis
 - https://yalantis.com/blog/
 
-## 2359 Media
+### 2359 Media
 - http://engineering.2359media.net/
 
-## Raizlabs
+### Raizlabs
 - http://www.raizlabs.com/dev/
 
-## Atomic Object
+### Atomic Object
 - http://spin.atomicobject.com/
 
-## Elabs
+### Elabs
 - http://www.elabs.se/blog
 
-## Parse
+### Parse
 - http://blog.parse.com/
 
-## Badoo
+### Badoo
 - https://techblog.badoo.com/
 
-## Outware
+### Outware
 - http://www.outware.com.au/insights/
 
-## Facebook
+### Facebook
 - https://code.facebook.com/posts/
 
-## Twitter
+### Twitter
 - https://blog.twitter.com/engineering
 
-## Yelp
+### Yelp
 - http://engineeringblog.yelp.com/
 
-## Macoscope
+### Macoscope
 - http://macoscope.com/blog/
 
-## Airbnb
+### Airbnb
 - http://nerds.airbnb.com/
