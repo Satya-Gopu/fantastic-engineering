@@ -15,6 +15,7 @@ About software engineering
 
 ### Thoughtbot
 - https://playbook.thoughtbot.com
+- https://github.com/thoughtbot/guides
 
 # Activities
 
