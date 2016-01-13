@@ -37,7 +37,7 @@ On Fridays, we have “investment time” when we learn new tools and techniques
 
 ### 2359 Media
 - [Sharing Session](http://2359media.com/2014/10/29/perspective-what-i-learnt-from-a-serial-entrepreneur/)
-Media conducts weekly internal sharing sessions that both enable and empower our developers, designers and business development teams alike in expanding both technical and non-technical knowledge through mutual learning
+Weekly internal sharing sessions that both enable and empower our developers, designers and business development teams alike in expanding both technical and non-technical knowledge through mutual learning
 
 # Environment
 
