@@ -9,6 +9,7 @@ About software engineering
 - [The Joel Test: 12 Steps to Better Code](http://www.joelonsoftware.com/articles/fog0000000043.html)
 - [Programming Tips](http://www.yacoset.com/Home/programming-tips)
 - [HowToBeAProgrammer](https://github.com/braydie/HowToBeAProgrammer)
+- [12 resolutions for programmers](http://matt.might.net/articles/programmers-resolutions/)
 
 # Playbook
 
