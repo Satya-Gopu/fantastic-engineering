@@ -24,7 +24,7 @@ About software engineering
 We recently introduced "Future Fridays" to help dedicate time to longer-term, open-ended work despite these urgent temptations. Each Friday, we give ourselves permission to suspend our usual work
 
 ### Atlassian
-- [ShipIt - Atlassian](https://www.atlassian.com/company/shipit)
+- [ShipIt](https://www.atlassian.com/company/shipit)
 24 hours to innovate. It's like 20% time. On steroids. Find what inspires you. Develop that dream feature.
 
 ### Peer Lab
@@ -34,6 +34,10 @@ Developers gather in a physical space to work on things. If someone has a questi
 ### Thoughtbot
 - [Investment Time](https://thoughtbot.com/jobs)
 On Fridays, we have “investment time” when we learn new tools and techniques, work on open source, create new products, write blog posts, and try to make ourselves, each other, and the community better.
+
+### 2359 Media
+- [Sharing Session](http://2359media.com/2014/10/29/perspective-what-i-learnt-from-a-serial-entrepreneur/)
+Media conducts weekly internal sharing sessions that both enable and empower our developers, designers and business development teams alike in expanding both technical and non-technical knowledge through mutual learning
 
 # Environment
 
