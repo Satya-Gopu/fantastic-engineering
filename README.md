@@ -1,5 +1,5 @@
 # Engineering
-All about software engineering
+About software engineering
 
 # Resources
 
