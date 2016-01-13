@@ -12,7 +12,8 @@ All about software engineering
 
 # Playbook
 
-- [Thoughtbot](https://playbook.thoughtbot.com)
+### Thoughtbot
+- https://playbook.thoughtbot.com
 
 # Activities
 
