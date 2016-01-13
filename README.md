@@ -10,6 +10,10 @@ All about software engineering
 - [Programming Tips](http://www.yacoset.com/Home/programming-tips)
 - [HowToBeAProgrammer](https://github.com/braydie/HowToBeAProgrammer)
 
+# Playbook
+
+- [Thoughtbot](https://playbook.thoughtbot.com)
+
 # Activities
 
 ### [Future Fridays - Artsy](http://artsy.github.io/blog/2015/12/22/future-fridays/)
@@ -21,18 +25,14 @@ All about software engineering
 ### [Peer Lab](http://artsy.github.io/blog/2015/08/10/peer-lab/)
 > Developers gather in a physical space to work on things. If someone has a question, they ask the group. If you can help, you offer assistance. The goal is to foster a collaborative learning environment where everyone feels fulfilled.
 
-# Playbook
-
-### Thoughtbot
-- https://playbook.thoughtbot.com/
 
 # Environment
 
 ### Basecamp
-- https://m.signalvnoise.com/employee-benefits-at-basecamp-d2d46fd06c58#.sowqf2pl7
+- [Employee benefits at Basecamp](https://m.signalvnoise.com/employee-benefits-at-basecamp-d2d46fd06c58#.sowqf2pl7)
 
 ### Github
-- https://www.youtube.com/watch?v=i0FzgvYxdvk
+- [Framework For Happiness](https://www.youtube.com/watch?v=i0FzgvYxdvk)
 
 # Blogs
 
