@@ -17,6 +17,9 @@ About software engineering
 - https://playbook.thoughtbot.com
 - https://github.com/thoughtbot/guides
 
+### Hyper
+- https://github.com/hyperoslo/iOS-playbook
+
 # Activities
 
 ### Artsy
