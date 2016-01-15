@@ -117,7 +117,7 @@ Weekly internal sharing sessions that both enable and empower our developers, de
 #### Upcase
 - https://upcase.com
 
-### Egghead
+#### Egghead
 - https://egghead.io/
 
 #### LearnCode.academy
