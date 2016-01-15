@@ -100,3 +100,78 @@ Weekly internal sharing sessions that both enable and empower our developers, de
 
 #### Airbnb
 - http://nerds.airbnb.com/
+
+# Bookshelf
+
+#### The Pragmatic Bookshelf
+- https://pragprog.com/titles
+
+#### Leanpub
+- https://leanpub.com/
+
+#### Packt Publishing
+- https://www.packtpub.com/
+
+# Course
+
+#### Upcase
+- https://upcase.com
+
+### Egghead
+- https://egghead.io/
+
+#### LearnCode.academy
+- https://www.youtube.com/channel/UCVTlvUkGslCV_h-nSAId8Sw
+
+#### LevelUpTuts
+- https://www.youtube.com/user/LevelUpTuts/playlists?view=1&sort=dd
+
+#### Codeacademy
+- https://www.codecademy.com/learn
+
+#### Scotch
+- https://scotch.io/
+
+#### Stanford Online
+- http://online.stanford.edu/
+
+# Challenge
+
+#### Badoo Coding Challenge
+- https://challenge.badoo.com/
+
+#### Spotify Puzzle
+- https://labs.spotify.com/puzzles/
+
+# Event
+
+#### hack.summit()
+- https://hacksummit.org/
+
+# Practice
+
+#### Codewar
+- http://www.codewars.com
+
+#### Hacker Rank
+- https://www.hackerrank.com/
+
+#### Code Fight
+- https://codefights.com/
+
+#### Coders Clan
+- https://www.codersclan.com/
+
+#### Code Combat
+- http://codecombat.com
+
+#### Coding Game
+- https://www.codingame.com/start
+
+#### Hacker Trail
+- https://www.hackertrail.com/
+
+# Startup
+
+#### How to start a startup
+- http://startupclass.samaltman.com/
