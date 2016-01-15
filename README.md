@@ -38,7 +38,7 @@ Developers gather in a physical space to work on things. If someone has a questi
 - [Investment Time](https://thoughtbot.com/jobs)
 On Fridays, we have “investment time” when we learn new tools and techniques, work on open source, create new products, write blog posts, and try to make ourselves, each other, and the community better.
 
-### 2359 Media
+#### 2359 Media
 - [Sharing Session](http://2359media.com/2014/10/29/perspective-what-i-learnt-from-a-serial-entrepreneur/)
 Weekly internal sharing sessions that both enable and empower our developers, designers and business development teams alike in expanding both technical and non-technical knowledge through mutual learning
 
@@ -62,7 +62,7 @@ Weekly internal sharing sessions that both enable and empower our developers, de
 #### Thoughtbot
 - https://robots.thoughtbot.com/
 
-### Yalantis
+#### Yalantis
 - https://yalantis.com/blog/
 
 #### 2359 Media
