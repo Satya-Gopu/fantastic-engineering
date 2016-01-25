@@ -20,6 +20,9 @@ About software engineering
 #### Hyper
 - https://github.com/hyperoslo/iOS-playbook
 
+#### Bakken & Bæck
+- https://github.com/bakkenbaeck/iOS-playbook
+
 # Activities
 
 #### Artsy
