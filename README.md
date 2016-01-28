@@ -138,6 +138,9 @@ Weekly internal sharing sessions that both enable and empower our developers, de
 #### Stanford Online
 - http://online.stanford.edu/
 
+#### Microsoft Virtual Academy
+- https://mva.microsoft.com/
+
 # Challenge
 
 #### Badoo Coding Challenge
