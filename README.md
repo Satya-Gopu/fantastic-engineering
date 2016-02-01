@@ -10,6 +10,7 @@ About software engineering
 - [Programming Tips](http://www.yacoset.com/Home/programming-tips)
 - [HowToBeAProgrammer](https://github.com/braydie/HowToBeAProgrammer)
 - [12 resolutions for programmers](http://matt.might.net/articles/programmers-resolutions/)
+- [The codeless code](http://thecodelesscode.com/contents)
 
 # Playbook
 
