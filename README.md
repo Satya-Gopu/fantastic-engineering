@@ -92,6 +92,7 @@ Weekly internal sharing sessions that both enable and empower our developers, de
 
 #### Facebook
 - https://code.facebook.com/posts/
+- http://makeitopen.com/ :star:
 
 #### Twitter
 - https://blog.twitter.com/engineering
