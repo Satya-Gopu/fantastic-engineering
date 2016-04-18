@@ -1,5 +1,74 @@
-# Engineering
+fantastic-engineering
+==
 About software engineering
+
+Contents
+==
+
+<!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
+
+- [Resources](#resources)
+- [Playbook](#playbook)
+			- [Thoughtbot](#thoughtbot)
+			- [Hyper](#hyper)
+			- [Bakken & Bæck](#bakken-bck)
+- [Activities](#activities)
+			- [Artsy](#artsy)
+			- [Atlassian](#atlassian)
+			- [Peer Lab](#peer-lab)
+			- [Thoughtbot](#thoughtbot)
+			- [2359 Media](#2359-media)
+- [Environment](#environment)
+			- [Basecamp](#basecamp)
+			- [Github](#github)
+- [Blogs](#blogs)
+			- [Artsy](#artsy)
+			- [Apple](#apple)
+			- [Thoughtbot](#thoughtbot)
+			- [Yalantis](#yalantis)
+			- [2359 Media](#2359-media)
+			- [Raizlabs](#raizlabs)
+			- [Atomic Object](#atomic-object)
+			- [Elabs](#elabs)
+			- [Parse](#parse)
+			- [Badoo](#badoo)
+			- [Outware](#outware)
+			- [Facebook](#facebook)
+			- [Twitter](#twitter)
+			- [Yelp](#yelp)
+			- [Macoscope](#macoscope)
+			- [Airbnb](#airbnb)
+- [Bookshelf](#bookshelf)
+			- [The Pragmatic Bookshelf](#the-pragmatic-bookshelf)
+			- [Leanpub](#leanpub)
+			- [Packt Publishing](#packt-publishing)
+- [Course](#course)
+			- [Upcase](#upcase)
+			- [Egghead](#egghead)
+			- [LearnCode.academy](#learncodeacademy)
+			- [LevelUpTuts](#leveluptuts)
+			- [Codeacademy](#codeacademy)
+			- [Scotch](#scotch)
+			- [Stanford Online](#stanford-online)
+			- [Microsoft Virtual Academy](#microsoft-virtual-academy)
+- [Challenge](#challenge)
+			- [Badoo Coding Challenge](#badoo-coding-challenge)
+			- [Spotify Puzzle](#spotify-puzzle)
+- [Event](#event)
+			- [hack.summit()](#hacksummit)
+- [Practice](#practice)
+			- [Codewar](#codewar)
+			- [Hacker Rank](#hacker-rank)
+			- [Code Fight](#code-fight)
+			- [Coders Clan](#coders-clan)
+			- [Code Combat](#code-combat)
+			- [Coding Game](#coding-game)
+			- [Hacker Trail](#hacker-trail)
+- [Startup](#startup)
+			- [How to start a startup](#how-to-start-a-startup)
+- [Ladder](#ladder)
+
+<!-- /TOC -->
 
 # Resources
 
