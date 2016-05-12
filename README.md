@@ -20,7 +20,7 @@ Contents
 - [Event](#event)
 - [Practice](#practice)
 - [Startup](#startup)
-- [Ladder](#ladder)
+- [Career Steps](#career-steps)
 
 <!-- /TOC -->
 
@@ -132,8 +132,9 @@ Weekly internal sharing sessions that both enable and empower our developers, de
 
 - How to start a startup http://startupclass.samaltman.com/
 
-# Ladder
+# Career Steps
 
 - [Sharing Our Engineering Ladder](http://dresscode.renttherunway.com/blog/ladder)
 - [Engineering Ladders – Helping Engineers Along Their Way](http://engineering.chartbeat.com/2015/06/05/engineering-ladders/)
 - [techladder](https://github.com/urbanairship/techladder)
+- [Spotify Technology Career Steps](https://labs.spotify.com/2016/02/15/spotify-technology-career-steps/)
