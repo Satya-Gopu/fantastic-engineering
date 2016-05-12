@@ -11,15 +11,15 @@ Contents
 
 - [Resources](#resources)
 - [Playbook](#playbook)
-			- [Thoughtbot](#thoughtbot)
-			- [Hyper](#hyper)
-			- [Bakken & Bæck](#bakken-bck)
+ - [Thoughtbot](#thoughtbot)
+ - [Hyper](#hyper)
+ - [Bakken & Bæck](#bakken-bck)
 - [Activities](#activities)
-			- [Artsy](#artsy)
-			- [Atlassian](#atlassian)
-			- [Peer Lab](#peer-lab)
-			- [Thoughtbot](#thoughtbot)
-			- [2359 Media](#2359-media)
+ - [Artsy](#artsy) 
+ - [Atlassian](#atlassian)
+ - [Peer Lab](#peer-lab)
+ - [Thoughtbot](#thoughtbot)
+ - [2359 Media](#2359-media)
 - [Environment](#environment)
 			- [Basecamp](#basecamp)
 			- [Github](#github)
@@ -260,3 +260,9 @@ Weekly internal sharing sessions that both enable and empower our developers, de
 - [Sharing Our Engineering Ladder](http://dresscode.renttherunway.com/blog/ladder)
 - [Engineering Ladders – Helping Engineers Along Their Way](http://engineering.chartbeat.com/2015/06/05/engineering-ladders/)
 - [techladder](https://github.com/urbanairship/techladder)
+
+# Posts
+
+- [I know how to program, but I don't know what to program](http://www.devdungeon.com/content/i-know-how-program-i-dont-know-what-program)
+- [Outperforming the Competition](https://christiantietze.de/posts/2016/05/outperforming-competition/)
+- [The Ultimate Code Kata](http://blog.codinghorror.com/the-ultimate-code-kata/)
