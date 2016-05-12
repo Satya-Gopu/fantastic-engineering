@@ -66,6 +66,9 @@ On Fridays, we have “investment time” when we learn new tools and techniques
   - [Sharing Session](http://2359media.com/2014/10/29/perspective-what-i-learnt-from-a-serial-entrepreneur/)
 Weekly internal sharing sessions that both enable and empower our developers, designers and business development teams alike in expanding both technical and non-technical knowledge through mutual learning
 
+- Bakken & Bæck
+  - [The Lab](https://medium.com/bakken-b%C3%A6ck/why-we-have-a-lab-e1f3ad6edc5f#.ew89pu31j) It has become an important place to learn making new stuff, test emerging technologies and build fun things.
+
 # Environment
 
 - Basecamp
