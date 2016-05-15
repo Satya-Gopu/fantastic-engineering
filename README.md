@@ -21,6 +21,7 @@ Contents
 - [Practice](#practice)
 - [Startup](#startup)
 - [Career Steps](#career-steps)
+- [Groups](#groups)
 
 <!-- /TOC -->
 
@@ -141,3 +142,102 @@ Weekly internal sharing sessions that both enable and empower our developers, de
 - [Engineering Ladders – Helping Engineers Along Their Way](http://engineering.chartbeat.com/2015/06/05/engineering-ladders/)
 - [techladder](https://github.com/urbanairship/techladder)
 - [Spotify Technology Career Steps](https://labs.spotify.com/2016/02/15/spotify-technology-career-steps/)
+
+# Groups
+
+## iOS
+
+Cocoaheads
+- https://cocoaheads.slack.com/
+- https://docs.google.com/forms/d/1pfdNYYkim8AUYq31uDAxD3z8_PpfXdXXk2oVF0jCJiU/viewform
+
+iOS Dev Scout
+- This group is for iOS Developers in Singapore
+- https://www.facebook.com/groups/iosdevscout/
+
+iOS developers 
+- A Slack community for iOS developers with 5,000+ members and counting.
+- https://ios-developers.slack.com/
+- https://ios-developers.io/
+
+Skilled
+- Interesting Swift projects, and the developers behind them.
+- https://www.skilled.io/
+
+iOS Developer family
+- http://chat.stackoverflow.com/rooms/15038/ios-developer-family
+
+NSChat
+- http://chat.stackoverflow.com/rooms/15942/nschat
+
+Swifters
+- https://swifters.slack.com/
+
+swift-lang
+- https://swift-lang.slack.com
+- http://swift-lang.schwa.io/
+
+Swift Noobs
+- https://swiftnoobs.slack.com 
+- http://swiftnoobs.xyz/
+
+RxSwift
+- https://rxswift.slack.com
+- http://slack.rxswift.org/
+
+## Android
+
+Android United
+- https://android-united.slack.com
+- http://alexnab.github.io/android-united/
+
+Android Chat
+- https://androidchat.slack.com
+- https://androidchat.co/
+
+Android
+- http://chat.stackoverflow.com/rooms/15/android
+
+## Go
+
+Gophers
+- https://gophers.slack.com
+- https://gophersinvite.herokuapp.com/
+
+## Elixir
+
+Elixir Lang
+- https://elixir-lang.slack.com
+
+## Front End
+
+Scotch
+- https://scotchio.slack.com
+
+## Design
+
+Design Talks
+- We talk about UI/UX Design, Web Design, Illustrations, freelancing, Design critiques, give each other feedbacks. Learn from others, teach others what you already know.
+- https://designtalks.slack.com/
+- https://docs.google.com/forms/d/1KFCWRmjL3Z0GZxrUZjy_f8s0x1dIGaJP9447FbuBSqg/viewform?c=0&w=1
+
+## Testing
+
+Hashtag Testing
+- https://hashtagtesting.slack.com/
+- http://hashtagtesting.com/
+
+## Nodejs
+
+Node Slackers
+- https://node-js.slack.com
+- http://nodeslackers.io/
+
+## General
+
+Slack
+- http://www.chitchats.co/
+- http://www.slacklist.info/
+- https://slack.com/signin/find
+- https://slackline.io/
+- https://www.hamsterpad.com/
