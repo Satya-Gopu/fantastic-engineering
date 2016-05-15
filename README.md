@@ -145,97 +145,85 @@ Weekly internal sharing sessions that both enable and empower our developers, de
 
 # Groups
 
-## iOS
+iOS
 
-Cocoaheads
-- https://cocoaheads.slack.com/
-- https://docs.google.com/forms/d/1pfdNYYkim8AUYq31uDAxD3z8_PpfXdXXk2oVF0jCJiU/viewform
-
-iOS Dev Scout
-- This group is for iOS Developers in Singapore
-- https://www.facebook.com/groups/iosdevscout/
-
-iOS developers 
-- A Slack community for iOS developers with 5,000+ members and counting.
-- https://ios-developers.slack.com/
-- https://ios-developers.io/
-
-Skilled
-- Interesting Swift projects, and the developers behind them.
-- https://www.skilled.io/
-
-iOS Developer family
-- http://chat.stackoverflow.com/rooms/15038/ios-developer-family
-
-NSChat
-- http://chat.stackoverflow.com/rooms/15942/nschat
-
-Swifters
-- https://swifters.slack.com/
-
-swift-lang
-- https://swift-lang.slack.com
-- http://swift-lang.schwa.io/
-
-Swift Noobs
-- https://swiftnoobs.slack.com 
-- http://swiftnoobs.xyz/
-
-RxSwift
-- https://rxswift.slack.com
-- http://slack.rxswift.org/
-
-## Android
-
-Android United
-- https://android-united.slack.com
-- http://alexnab.github.io/android-united/
-
-Android Chat
-- https://androidchat.slack.com
-- https://androidchat.co/
+- Cocoaheads
+  - https://cocoaheads.slack.com/
+  - https://docs.google.com/forms/d/1pfdNYYkim8AUYq31uDAxD3z8_PpfXdXXk2oVF0jCJiU/viewform
+- iOS Dev Scout
+  - This group is for iOS Developers in Singapore
+  - https://www.facebook.com/groups/iosdevscout/
+- iOS developers 
+  - A Slack community for iOS developers with 5,000+ members and counting.
+  - https://ios-developers.slack.com/
+  - https://ios-developers.io/
+- Skilled
+  - Interesting Swift projects, and the developers behind them.
+  - https://www.skilled.io/
+- iOS Developer family
+  - http://chat.stackoverflow.com/rooms/15038/ios-developer-family
+-NSChat
+  - http://chat.stackoverflow.com/rooms/15942/nschat
+- Swifters
+  - https://swifters.slack.com/
+- swift-lang
+  - https://swift-lang.slack.com
+  - http://swift-lang.schwa.io/
+- Swift Noobs
+  - https://swiftnoobs.slack.com 
+  - http://swiftnoobs.xyz/
+- RxSwift
+  - https://rxswift.slack.com
+  - http://slack.rxswift.org/
 
 Android
-- http://chat.stackoverflow.com/rooms/15/android
 
-## Go
+- Android United
+  - https://android-united.slack.com
+  - http://alexnab.github.io/android-united/
+- Android Chat
+  - https://androidchat.slack.com
+  - https://androidchat.co/
+- Android
+  - http://chat.stackoverflow.com/rooms/15/android
 
-Gophers
-- https://gophers.slack.com
-- https://gophersinvite.herokuapp.com/
+Go
 
-## Elixir
+- Gophers
+  - https://gophers.slack.com
+  - https://gophersinvite.herokuapp.com/
 
-Elixir Lang
-- https://elixir-lang.slack.com
+Elixir
 
-## Front End
+- Elixir Lang
+  - https://elixir-lang.slack.com
 
-Scotch
-- https://scotchio.slack.com
+Front End
 
-## Design
+- Scotch
+  - https://scotchio.slack.com
 
-Design Talks
-- We talk about UI/UX Design, Web Design, Illustrations, freelancing, Design critiques, give each other feedbacks. Learn from others, teach others what you already know.
-- https://designtalks.slack.com/
-- https://docs.google.com/forms/d/1KFCWRmjL3Z0GZxrUZjy_f8s0x1dIGaJP9447FbuBSqg/viewform?c=0&w=1
+Design
 
-## Testing
+- Design Talks
+  - We talk about UI/UX Design, Web Design, Illustrations, freelancing, Design critiques, give each other feedbacks. Learn from others, teach others what you already know.
+  - https://designtalks.slack.com/
+  - https://docs.google.com/forms/d/1KFCWRmjL3Z0GZxrUZjy_f8s0x1dIGaJP9447FbuBSqg/viewform?c=0&w=1
 
-Hashtag Testing
-- https://hashtagtesting.slack.com/
-- http://hashtagtesting.com/
+Testing
 
-## Nodejs
+- Hashtag Testing
+  - https://hashtagtesting.slack.com/
+  - http://hashtagtesting.com/
 
-Node Slackers
-- https://node-js.slack.com
-- http://nodeslackers.io/
+Nodejs
 
-## General
+- Node Slackers
+  - https://node-js.slack.com
+  - http://nodeslackers.io/
 
-Slack
+General
+
 - http://www.chitchats.co/
 - http://www.slacklist.info/
 - https://slack.com/signin/find
