@@ -193,6 +193,7 @@ Weekly internal sharing sessions that both enable and empower our developers, de
 ### Architecture
 
 - [Catalog of Patterns of Enterprise Application Architecture](www.martinfowler.com/eaaCatalog/index.html)
+- [fantastic-ios-architecture](https://github.com/onmyway133/fantastic-ios-architecture)
 
 ### Clean Architecture
 
