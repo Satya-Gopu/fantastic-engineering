@@ -21,8 +21,8 @@ Contents
 - [Practice](#practice)
 - [Startup](#startup)
 - [Career Steps](#career-steps)
-- [Groups](#groups)
 - [Programming](#programming)
+- [Groups](#groups)
 
 <!-- /TOC -->
 
