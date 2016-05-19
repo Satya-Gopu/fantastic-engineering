@@ -22,6 +22,7 @@ Contents
 - [Startup](#startup)
 - [Career Steps](#career-steps)
 - [Groups](#groups)
+- [Programming](#programming)
 
 <!-- /TOC -->
 
@@ -143,6 +144,67 @@ Weekly internal sharing sessions that both enable and empower our developers, de
 - [techladder](https://github.com/urbanairship/techladder)
 - [Spotify Technology Career Steps](https://labs.spotify.com/2016/02/15/spotify-technology-career-steps/)
 
+# Programming
+
+### Books
+
+- [Clean Code: A Handbook of Agile Software Craftsmanship](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
+- [The Pragmatic Programmer: From Journeyman to Master](http://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X)
+- [Code Complete: A Practical Handbook of Software Construction, Second Edition 2nd Edition](http://www.amazon.com/Code-Complete-Practical-Handbook-Construction/dp/0735619670)
+- [The Clean Coder: A Code of Conduct for Professional Programmers](http://www.amazon.com/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073)
+- [Refactoring: Improving the Design of Existing Code](http://www.amazon.com/Refactoring-Improving-Design-Existing-Code/dp/0201485672)
+- [Agile Principles, Patterns, and Practices in C#](http://www.amazon.com/Agile-Principles-Patterns-Practices-C/dp/0131857258) :star:
+- [Refactoring to Patterns](http://www.amazon.com/Refactoring-Patterns-Joshua-Kerievsky/dp/0321213351)
+
+### General
+
+- [The Codist](thecodist.com)
+- [thoughtbot Learn : The Weekly Iteration: a show by thoughtbot](https://learn.thoughtbot.com/the-weekly-iteration)
+- [Clean Coders](https://cleancoders.com/landing)
+
+### Clean Code
+
+- [▶ Clean Code - YouTube](www.youtube.com/watch?v=HZJxjlvBbVA)
+- [The Clean Code Talks - Don't Look For Things! - YouTube](https://www.youtube.com/watch?v=RlfLCWKxHJ0&list=PL693EFD059797C21E)
+- [How To Write Unmaintainable Code](https://www.thc.org/root/phun/unmaintain.html)
+
+### Refactoring
+
+- [Alpha list of refactorings](refactoring.com/catalog/index.html)
+- [Refactoring to Patterns Catalog](industriallogic.com/xp/refactoring/catalog.html)
+
+### Design Patterns
+
+- [Factory Design Pattern - YouTube](www.youtube.com/watch?v=ub0DXaeV6hA)
+- [Design Patterns](sourcemaking.com/design_patterns)
+- [Software design pattern - Wikipedia, the free encyclopedia](en.wikipedia.org/wiki/Software_design_pattern)
+
+### Principles
+
+- [10 Object Oriented Design principles Java programmer should know (guest post)](blog.jelastic.com/2013/02/25/10-object-oriented-design-principles-java-programmer-should-know-guest-post/)
+- [3 Key Software Principles You Must Understand](net.tutsplus.com/tutorials/tools-and-tips/3-key-software-principles-you-must-understand/)
+- [OO Design Principles | Valuable Opinions](mmiika.wordpress.com/oo-design-principles/)
+- [SOLID Class Design: The Liskov Substitution Principle « Tom Dalling Tom Dalling](tomdalling.com/blog/software-design/solid-class-design-the-liskov-substitution-principle/)
+- [ArticleS.UncleBob.PrinciplesOfOod](butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod)
+- [Design Principles | Object Oriented Design](www.oodesign.com/design-principles.html)
+- [Separation of Concerns | Effective Software Design](effectivesoftwaredesign.com/2012/02/05/separation-of-concerns/)
+- [Object Oriented Design - YouTube](https://www.youtube.com/watch?v=fJW65Wo7IHI&list=PLGLfVvz_LVvS5P7khyR4xDp7T9lCk9PgE)
+
+### Architecture
+
+- [Catalog of Patterns of Enterprise Application Architecture](www.martinfowler.com/eaaCatalog/index.html)
+
+### Clean Architecture
+
+- [The delivery mechanism is an annoying detail - Coding the Architecture](www.codingthearchitecture.com/2011/11/06/the_delivery_mechanism_is_an_annoying_detail.html)
+- [The Clean Architecture | 8th Light](blog.8thlight.com/uncle-bob/2012/08/13/the-clean-architecture.html) :star:
+- [luisobo/clean-architecture](https://github.com/luisobo/clean-architecture)
+- [Destroy All Software Screencasts](https://www.destroyallsoftware.com/screencasts)
+- [Robert C. Martin - Clean Architecture on Vimeo](https://vimeo.com/43612849)
+- [android10/Android-CleanArchitecture](https://github.com/android10/Android-CleanArchitecture)
+- [Clean Architecture, by Luis Zamith of Group Buddies](https://blog.groupbuddies.com/posts/20-clean-architecture)
+- [Clean Coders](https://cleancoders.com/)
+
 # Groups
 
 iOS
@@ -153,7 +215,7 @@ iOS
 - iOS Dev Scout
   - This group is for iOS Developers in Singapore
   - https://www.facebook.com/groups/iosdevscout/
-- iOS developers 
+- iOS developers
   - A Slack community for iOS developers with 5,000+ members and counting.
   - https://ios-developers.slack.com/
   - https://ios-developers.io/
@@ -170,7 +232,7 @@ iOS
   - https://swift-lang.slack.com
   - http://swift-lang.schwa.io/
 - Swift Noobs
-  - https://swiftnoobs.slack.com 
+  - https://swiftnoobs.slack.com
   - http://swiftnoobs.xyz/
 - RxSwift
   - https://rxswift.slack.com
