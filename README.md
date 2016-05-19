@@ -204,7 +204,6 @@ Weekly internal sharing sessions that both enable and empower our developers, de
 - [Robert C. Martin - Clean Architecture on Vimeo](https://vimeo.com/43612849)
 - [android10/Android-CleanArchitecture](https://github.com/android10/Android-CleanArchitecture)
 - [Clean Architecture, by Luis Zamith of Group Buddies](https://blog.groupbuddies.com/posts/20-clean-architecture)
-- [Clean Coders](https://cleancoders.com/)
 
 # Groups
 
