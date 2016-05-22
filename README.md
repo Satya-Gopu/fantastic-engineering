@@ -96,6 +96,7 @@ Weekly internal sharing sessions that both enable and empower our developers, de
 - Yelp http://engineeringblog.yelp.com/
 - Macoscope http://macoscope.com/blog/
 - Airbnb http://nerds.airbnb.com/
+- Tumblr https://engineering.tumblr.com :star:
 
 # Bookshelf
 
