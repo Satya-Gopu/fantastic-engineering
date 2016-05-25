@@ -10,6 +10,7 @@ Contents
 <!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
 - [Posts](#posts)
+- [Something](#something)
 - [Playbook](#playbook)
 - [Activities](#activities)
 - [Environment](#environment)
@@ -39,6 +40,11 @@ Contents
 - [I know how to program, but I don't know what to program](http://www.devdungeon.com/content/i-know-how-program-i-dont-know-what-program)
 - [Outperforming the Competition](https://christiantietze.de/posts/2016/05/outperforming-competition/)
 - [The Ultimate Code Kata](http://blog.codinghorror.com/the-ultimate-code-kata/)
+
+# Something
+
+- [“Eat, sleep, code, repeat” is such bullshit](https://m.signalvnoise.com/eat-sleep-code-repeat-is-such-bullshit-c2a4d9beaaf5#.t4vvmb99g)
+- [The Impact of Code in Society](https://www.youtube.com/watch?v=WtM3wPVhkik)
 
 # Playbook
 
