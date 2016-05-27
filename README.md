@@ -215,7 +215,6 @@ Weekly internal sharing sessions that both enable and empower our developers, de
 # Groups
 
 iOS
-
 - Cocoaheads
   - https://cocoaheads.slack.com/
   - https://docs.google.com/forms/d/1pfdNYYkim8AUYq31uDAxD3z8_PpfXdXXk2oVF0jCJiU/viewform
@@ -244,9 +243,7 @@ iOS
 - RxSwift
   - https://rxswift.slack.com
   - http://slack.rxswift.org/
-
 Android
-
 - Android United
   - https://android-united.slack.com
   - http://alexnab.github.io/android-united/
@@ -255,44 +252,30 @@ Android
   - https://androidchat.co/
 - Android
   - http://chat.stackoverflow.com/rooms/15/android
-
 Go
-
 - Gophers
   - https://gophers.slack.com
   - https://gophersinvite.herokuapp.com/
-
 Elixir
-
 - Elixir Lang
   - https://elixir-lang.slack.com
-
 Front End
-
 - Scotch
   - https://scotchio.slack.com
-
 Design
-
 - Design Talks
   - We talk about UI/UX Design, Web Design, Illustrations, freelancing, Design critiques, give each other feedbacks. Learn from others, teach others what you already know.
   - https://designtalks.slack.com/
   - https://docs.google.com/forms/d/1KFCWRmjL3Z0GZxrUZjy_f8s0x1dIGaJP9447FbuBSqg/viewform?c=0&w=1
-
 Testing
-
 - Hashtag Testing
   - https://hashtagtesting.slack.com/
   - http://hashtagtesting.com/
-
 Nodejs
-
 - Node Slackers
   - https://node-js.slack.com
   - http://nodeslackers.io/
-
 General
-
 - http://www.chitchats.co/
 - http://www.slacklist.info/
 - https://slack.com/signin/find
