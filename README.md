@@ -48,6 +48,7 @@ Contents
 - Thoughtbot https://playbook.thoughtbot.com https://github.com/thoughtbot/guides
 - Hyper https://github.com/hyperoslo/iOS-playbook
 - Bakken & Bæck https://github.com/bakkenbaeck/iOS-playbook https://handbook.bakkenbaeck.com/
+- Agens https://github.com/agensdev/playbook-ios
 
 # Activities
 
