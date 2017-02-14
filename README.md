@@ -26,7 +26,7 @@ Contents
 
 <!-- /TOC -->
 
-# Posts
+# Posts 🍁
 
 - [15 things I wish I’d learned earlier about software engineering](https://medium.com/@kyleve/15-things-i-wish-id-learned-earlier-about-software-engineering-c9a4b16d36de)
 - [The Ten Commandments of Egoless Programming](http://blog.codinghorror.com/the-ten-commandments-of-egoless-programming/)
@@ -43,7 +43,7 @@ Contents
 - [The Impact of Code in Society](https://www.youtube.com/watch?v=WtM3wPVhkik)
 - [Seniority](http://merowing.info/2017/01/seniority/)
 
-# Playbook
+# Playbook 🎠
 
 - Thoughtbot https://playbook.thoughtbot.com https://github.com/thoughtbot/guides
 - Hyper https://github.com/hyperoslo/iOS-playbook
@@ -75,14 +75,14 @@ Weekly internal sharing sessions that both enable and empower our developers, de
 - Bakken & Bæck
   - [The Lab](https://medium.com/bakken-b%C3%A6ck/why-we-have-a-lab-e1f3ad6edc5f#.ew89pu31j) It has become an important place to learn making new stuff, test emerging technologies and build fun things.
 
-# Environment
+# Environment 🛰
 
 - Basecamp
   - [Employee benefits at Basecamp](https://m.signalvnoise.com/employee-benefits-at-basecamp-d2d46fd06c58#.sowqf2pl7)
 - Github
   - [Framework For Happiness](https://www.youtube.com/watch?v=i0FzgvYxdvk)
 
-# Blogs
+# Blogs 🎢
 
 - Artsy http://artsy.github.io/ https://github.com/artsy/mobile/
 - Apple https://swift.org/blog/
@@ -118,18 +118,19 @@ Weekly internal sharing sessions that both enable and empower our developers, de
 - Scotch https://scotch.io/
 - Stanford Online http://online.stanford.edu/
 - Microsoft Virtual Academy https://mva.microsoft.com/
-- Free code camp https://www.freecodecamp.com/
+- Free code camp https://www.freecodecamp.com/ 🐝
+- Udacity Nanodegree https://www.udacity.com/nanodegree/plus 🚀
 
 # Challenge ⛷
 
 - Badoo Coding Challenge https://challenge.badoo.com/
 - Spotify Puzzle https://labs.spotify.com/puzzles/
 
-# Event
+# Event ✈️
 
 - hack.summit() https://hacksummit.org/
 
-# Practice
+# Practice 🏋️
 
 - Codewar http://www.codewars.com
 - Hacker Rank https://www.hackerrank.com/
@@ -139,18 +140,18 @@ Weekly internal sharing sessions that both enable and empower our developers, de
 - Coding Game https://www.codingame.com/start
 - Hacker Trail https://www.hackertrail.com/
 
-# Startup
+# Startup 🥊
 
 - How to start a startup http://startupclass.samaltman.com/
 
-# Career Steps
+# Career Steps 🏇
 
 - [Sharing Our Engineering Ladder](http://dresscode.renttherunway.com/blog/ladder)
 - [Engineering Ladders – Helping Engineers Along Their Way](http://engineering.chartbeat.com/2015/06/05/engineering-ladders/)
 - [techladder](https://github.com/urbanairship/techladder)
 - [Spotify Technology Career Steps](https://labs.spotify.com/2016/02/15/spotify-technology-career-steps/)
 
-# Programming
+# Programming 🐣
 
 ### Books
 
