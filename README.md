@@ -84,7 +84,7 @@ Weekly internal sharing sessions that both enable and empower our developers, de
 
 # Blogs 🎢
 
-- Artsy http://artsy.github.io/ https://github.com/artsy/mobile/
+- Artsy http://artsy.github.io/ https://github.com/artsy/mobile/ :rocket:
 - Apple https://swift.org/blog/
 - Thoughtbot https://robots.thoughtbot.com/
 - Yalantis https://yalantis.com/blog/
