@@ -49,6 +49,7 @@ Contents
 - Hyper https://github.com/hyperoslo/iOS-playbook
 - Bakken & Bæck https://github.com/bakkenbaeck/iOS-playbook https://handbook.bakkenbaeck.com/
 - Agens https://github.com/agensdev/playbook-ios
+- Artsy https://github.com/artsy/mobile/
 
 # Activities 🏃
 
@@ -84,7 +85,7 @@ Weekly internal sharing sessions that both enable and empower our developers, de
 
 # Blogs 🎢
 
-- Artsy http://artsy.github.io/ https://github.com/artsy/mobile/ :rocket:
+- Artsy http://artsy.github.io/ :rocket:
 - Apple https://swift.org/blog/
 - Thoughtbot https://robots.thoughtbot.com/
 - Yalantis https://yalantis.com/blog/
