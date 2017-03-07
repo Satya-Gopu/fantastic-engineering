@@ -9,20 +9,20 @@ Contents
 
 <!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
-- [Posts](#posts)
-- [Playbook](#playbook)
-- [Activities](#activities)
-- [Environment](#environment)
-- [Blogs](#blogs)
-- [Bookshelf](#bookshelf)
-- [Course](#course)
-- [Challenge](#challenge)
-- [Event](#event)
-- [Practice](#practice)
-- [Startup](#startup)
-- [Career Steps](#career-steps)
-- [Programming](#programming)
-- [Groups](#groups)
+- [Posts](#posts-)
+- [Playbook](#playbook-)
+- [Activities](#activities-)
+- [Environment](#environment-)
+- [Blogs](#blogs-)
+- [Bookshelf](#bookshelf-)
+- [Course](#course-)
+- [Challenge](#challenge-)
+- [Event](#event-)
+- [Practice](#practice-)
+- [Startup](#startup-)
+- [Career Steps](#career-steps-)
+- [Programming](#programming-)
+- [Groups](#groups-)
 
 <!-- /TOC -->
 
