@@ -146,6 +146,7 @@ Weekly internal sharing sessions that both enable and empower our developers, de
 # Startup 🥊
 
 - How to start a startup http://startupclass.samaltman.com/
+- FB Startup https://developers.facebook.com/fbstart
 
 # Career Steps 🏇
 
