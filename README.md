@@ -42,6 +42,7 @@ Contents
 - [“Eat, sleep, code, repeat” is such bullshit](https://m.signalvnoise.com/eat-sleep-code-repeat-is-such-bullshit-c2a4d9beaaf5#.t4vvmb99g)
 - [The Impact of Code in Society](https://www.youtube.com/watch?v=WtM3wPVhkik)
 - [Seniority](http://merowing.info/2017/01/seniority/)
+- [A Strategy for Great Work](https://developer.apple.com/videos/play/wwdc2014/237/)
 
 # Playbook 🎠
 
