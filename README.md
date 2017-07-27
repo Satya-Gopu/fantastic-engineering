@@ -51,6 +51,7 @@ Contents
 - Bakken & Bæck https://github.com/bakkenbaeck/iOS-playbook https://handbook.bakkenbaeck.com/
 - Agens https://github.com/agensdev/playbook-ios
 - Artsy https://github.com/artsy/mobile/
+- Basecamp https://github.com/basecamp/handbook
 
 # Activities 🏃
 
@@ -154,7 +155,8 @@ Weekly internal sharing sessions that both enable and empower our developers, de
 - [Sharing Our Engineering Ladder](http://dresscode.renttherunway.com/blog/ladder)
 - [Engineering Ladders – Helping Engineers Along Their Way](http://engineering.chartbeat.com/2015/06/05/engineering-ladders/)
 - [techladder](https://github.com/urbanairship/techladder)
-- [Spotify Technology Career Steps](https://labs.spotify.com/2016/02/15/spotify-technology-career-steps/)
+- [Spotify Technology Career Steps](https://labs.spotify.com/2016/02/15/spotify-technology-career-steps/)2
+- [Titles for programmers](https://github.com/basecamp/handbook/blob/master/titles-for-programmers.md)
 
 # Programming 🐣
 
