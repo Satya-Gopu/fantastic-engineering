@@ -43,6 +43,7 @@ Contents
 - [The Impact of Code in Society](https://www.youtube.com/watch?v=WtM3wPVhkik)
 - [Seniority](http://merowing.info/2017/01/seniority/)
 - [A Strategy for Great Work](https://developer.apple.com/videos/play/wwdc2014/237/)
+- [The company isn’t a family](https://m.signalvnoise.com/the-company-isnt-a-family-d24f26c3f3fe)
 
 # Playbook 🎠
 
