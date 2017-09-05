@@ -13,6 +13,7 @@ Contents
 - [Playbook](#playbook-)
 - [Activities](#activities-)
 - [Environment](#environment-)
+- [Test](#test)
 - [Blogs](#blogs-)
 - [Bookshelf](#bookshelf-)
 - [Course](#course-)
@@ -56,35 +57,28 @@ Contents
 
 # Activities 🏃
 
-- Artsy
-  - [Future Fridays](http://artsy.github.io/blog/2015/12/22/future-fridays/)
+- [Future Fridays](http://artsy.github.io/blog/2015/12/22/future-fridays/)
 We recently introduced "Future Fridays" to help dedicate time to longer-term, open-ended work despite these urgent temptations. Each Friday, we give ourselves permission to suspend our usual work
-
-- Atlassian
-  - [ShipIt](https://www.atlassian.com/company/shipit)
+- [ShipIt](https://www.atlassian.com/company/shipit)
 24 hours to innovate. It's like 20% time. On steroids. Find what inspires you. Develop that dream feature.
-
-- Peer Lab
-  -  [Peer Lab](http://artsy.github.io/blog/2015/08/10/peer-lab/)
+- [Peer Lab](http://artsy.github.io/blog/2015/08/10/peer-lab/)
 Developers gather in a physical space to work on things. If someone has a question, they ask the group. If you can help, you offer assistance. The goal is to foster a collaborative learning environment where everyone feels fulfilled.
-
-- Thoughtbot
-  - [Investment Time](https://thoughtbot.com/jobs)
+- [Investment Time](https://thoughtbot.com/jobs)
 On Fridays, we have “investment time” when we learn new tools and techniques, work on open source, create new products, write blog posts, and try to make ourselves, each other, and the community better.
-
-- 2359 Media
-  - [Sharing Session](http://2359media.com/2014/10/29/perspective-what-i-learnt-from-a-serial-entrepreneur/)
+- [Sharing Session](http://2359media.com/2014/10/29/perspective-what-i-learnt-from-a-serial-entrepreneur/)
 Weekly internal sharing sessions that both enable and empower our developers, designers and business development teams alike in expanding both technical and non-technical knowledge through mutual learning
-
-- Bakken & Bæck
-  - [The Lab](https://medium.com/bakken-b%C3%A6ck/why-we-have-a-lab-e1f3ad6edc5f#.ew89pu31j) It has become an important place to learn making new stuff, test emerging technologies and build fun things.
+- [The Lab](https://medium.com/bakken-b%C3%A6ck/why-we-have-a-lab-e1f3ad6edc5f#.ew89pu31j) It has become an important place to learn making new stuff, test emerging technologies and build fun things.
 
 # Environment 🛰
 
-- Basecamp
-  - [Employee benefits at Basecamp](https://m.signalvnoise.com/employee-benefits-at-basecamp-d2d46fd06c58#.sowqf2pl7)
-- Github
-  - [Framework For Happiness](https://www.youtube.com/watch?v=i0FzgvYxdvk)
+- [Employee benefits at Basecamp](https://m.signalvnoise.com/employee-benefits-at-basecamp-d2d46fd06c58#.sowqf2pl7)
+- [Framework For Happiness](https://www.youtube.com/watch?v=i0FzgvYxdvk)
+
+# Test
+
+- Just Eat https://github.com/justeat/JustEat.RecruitmentTest
+- Babylon Health https://github.com/Babylonpartners/iOS-Interview-Demo
+- Holmusk https://github.com/Holmusk/iOS-Challenge
 
 # Blogs 🎢
 
