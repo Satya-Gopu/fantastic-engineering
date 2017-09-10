@@ -23,7 +23,7 @@ Contents
 - [Startup](#startup-)
 - [Career Steps](#career-steps-)
 - [Programming](#programming-)
-- [Groups](#groups-)
+- [Groups](#groups)
 
 <!-- /TOC -->
 
