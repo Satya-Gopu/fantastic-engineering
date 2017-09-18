@@ -17,7 +17,6 @@ Contents
 - [Blogs](#blogs-)
 - [Bookshelf](#bookshelf-)
 - [Course](#course-)
-- [Challenge](#challenge-)
 - [Event](#event-)
 - [Practice](#practice-)
 - [Startup](#startup-)
@@ -45,6 +44,7 @@ Contents
 - [Seniority](http://merowing.info/2017/01/seniority/)
 - [A Strategy for Great Work](https://developer.apple.com/videos/play/wwdc2014/237/)
 - [The company isn’t a family](https://m.signalvnoise.com/the-company-isnt-a-family-d24f26c3f3fe)
+- [Become — How I went from selling food in the street to working for top firms in tech](https://medium.com/@old_sound/become-how-i-went-from-selling-food-in-the-street-to-working-for-top-firms-in-tech-6aa61a2d0629)
 
 # Playbook 🎠
 
@@ -79,6 +79,8 @@ Weekly internal sharing sessions that both enable and empower our developers, de
 - Just Eat https://github.com/justeat/JustEat.RecruitmentTest
 - Babylon Health https://github.com/Babylonpartners/iOS-Interview-Demo
 - Holmusk https://github.com/Holmusk/iOS-Challenge
+- Badoo Coding Challenge https://challenge.badoo.com/
+- Spotify Puzzle https://labs.spotify.com/puzzles/
 
 # Blogs 🎢
 
@@ -120,11 +122,6 @@ Weekly internal sharing sessions that both enable and empower our developers, de
 - Microsoft Virtual Academy https://mva.microsoft.com/
 - Free code camp https://www.freecodecamp.com/ 🐝
 - Udacity Nanodegree https://www.udacity.com/nanodegree/plus 🚀
-
-# Challenge ⛷
-
-- Badoo Coding Challenge https://challenge.badoo.com/
-- Spotify Puzzle https://labs.spotify.com/puzzles/
 
 # Event ✈️
 
