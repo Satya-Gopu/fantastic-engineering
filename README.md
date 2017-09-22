@@ -26,7 +26,7 @@ Contents
 
 <!-- /TOC -->
 
-# Posts 🍁
+## Posts 🍁
 
 - [15 things I wish I’d learned earlier about software engineering](https://medium.com/@kyleve/15-things-i-wish-id-learned-earlier-about-software-engineering-c9a4b16d36de)
 - [The Ten Commandments of Egoless Programming](http://blog.codinghorror.com/the-ten-commandments-of-egoless-programming/)
@@ -47,7 +47,7 @@ Contents
 - [Become — How I went from selling food in the street to working for top firms in tech](https://medium.com/@old_sound/become-how-i-went-from-selling-food-in-the-street-to-working-for-top-firms-in-tech-6aa61a2d0629)
 - [What have you learned after working at Facebook for almost two years?](https://hashnode.com/post/what-have-you-learned-after-working-at-facebook-for-almost-two-years-have-you-grown-as-a-developer-and-what-are-some-of-the-key-takeaways-cj7q3gkjx019xkhwujchsrtho)
 
-# Playbook 🎠
+## Playbook 🎠
 
 - Thoughtbot https://playbook.thoughtbot.com https://github.com/thoughtbot/guides
 - Hyper https://github.com/hyperoslo/iOS-playbook
@@ -56,7 +56,7 @@ Contents
 - Artsy https://github.com/artsy/mobile/
 - Basecamp https://github.com/basecamp/handbook
 
-# Activities 🏃
+## Activities 🏃
 
 - [Future Fridays](http://artsy.github.io/blog/2015/12/22/future-fridays/)
 We recently introduced "Future Fridays" to help dedicate time to longer-term, open-ended work despite these urgent temptations. Each Friday, we give ourselves permission to suspend our usual work
@@ -70,12 +70,12 @@ On Fridays, we have “investment time” when we learn new tools and techniques
 Weekly internal sharing sessions that both enable and empower our developers, designers and business development teams alike in expanding both technical and non-technical knowledge through mutual learning
 - [The Lab](https://medium.com/bakken-b%C3%A6ck/why-we-have-a-lab-e1f3ad6edc5f#.ew89pu31j) It has become an important place to learn making new stuff, test emerging technologies and build fun things.
 
-# Environment 🛰
+## Environment 🛰
 
 - [Employee benefits at Basecamp](https://m.signalvnoise.com/employee-benefits-at-basecamp-d2d46fd06c58#.sowqf2pl7)
 - [Framework For Happiness](https://www.youtube.com/watch?v=i0FzgvYxdvk)
 
-# Test
+## Test
 
 - Just Eat https://github.com/justeat/JustEat.RecruitmentTest
 - Babylon Health https://github.com/Babylonpartners/iOS-Interview-Demo
@@ -83,7 +83,7 @@ Weekly internal sharing sessions that both enable and empower our developers, de
 - Badoo Coding Challenge https://challenge.badoo.com/
 - Spotify Puzzle https://labs.spotify.com/puzzles/
 
-# Blogs 🎢
+## Blogs 🎢
 
 - Artsy http://artsy.github.io/ :rocket:
 - Apple https://swift.org/blog/
@@ -105,13 +105,13 @@ Weekly internal sharing sessions that both enable and empower our developers, de
 - Joel on Software https://www.joelonsoftware.com/ :rocket:
 - Coding Horror https://blog.codinghorror.com/ :rocket:
 
-# Bookshelf 📕
+## Bookshelf 📕
 
 - The Pragmatic Bookshelf https://pragprog.com/titles
 - Leanpub https://leanpub.com/
 - Packt Publishing https://www.packtpub.com/
 
-# Course 📚
+## Course 📚
 
 - Upcase https://upcase.com
 - Egghead https://egghead.io/
@@ -124,11 +124,11 @@ Weekly internal sharing sessions that both enable and empower our developers, de
 - Free code camp https://www.freecodecamp.com/ 🐝
 - Udacity Nanodegree https://www.udacity.com/nanodegree/plus 🚀
 
-# Event ✈️
+## Event ✈️
 
 - hack.summit() https://hacksummit.org/
 
-# Practice 🏋️
+## Practice 🏋️
 
 - Codewar http://www.codewars.com
 - Hacker Rank https://www.hackerrank.com/
@@ -138,12 +138,12 @@ Weekly internal sharing sessions that both enable and empower our developers, de
 - Coding Game https://www.codingame.com/start
 - Hacker Trail https://www.hackertrail.com/
 
-# Startup 🥊
+## Startup 🥊
 
 - How to start a startup http://startupclass.samaltman.com/
 - FB Startup https://developers.facebook.com/fbstart
 
-# Career Steps 🏇
+## Career Steps 🏇
 
 - [Sharing Our Engineering Ladder](http://dresscode.renttherunway.com/blog/ladder)
 - [Engineering Ladders – Helping Engineers Along Their Way](http://engineering.chartbeat.com/2015/06/05/engineering-ladders/)
@@ -151,9 +151,9 @@ Weekly internal sharing sessions that both enable and empower our developers, de
 - [Spotify Technology Career Steps](https://labs.spotify.com/2016/02/15/spotify-technology-career-steps/)2
 - [Titles for programmers](https://github.com/basecamp/handbook/blob/master/titles-for-programmers.md)
 
-# Programming 🐣
+## Programming 🐣
 
-### Books
+#### Books
 
 - [Clean Code: A Handbook of Agile Software Craftsmanship](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
 - [The Pragmatic Programmer: From Journeyman to Master](http://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X)
@@ -163,30 +163,30 @@ Weekly internal sharing sessions that both enable and empower our developers, de
 - [Agile Principles, Patterns, and Practices in C#](http://www.amazon.com/Agile-Principles-Patterns-Practices-C/dp/0131857258) :star:
 - [Refactoring to Patterns](http://www.amazon.com/Refactoring-Patterns-Joshua-Kerievsky/dp/0321213351)
 
-### General
+#### General
 
 - [The Codist](thecodist.com)
 - [thoughtbot Learn : The Weekly Iteration: a show by thoughtbot](https://learn.thoughtbot.com/the-weekly-iteration)
 - [Clean Coders](https://cleancoders.com/landing)
 
-### Clean Code
+#### Clean Code
 
 - [▶ Clean Code - YouTube](www.youtube.com/watch?v=HZJxjlvBbVA)
 - [The Clean Code Talks - Don't Look For Things! - YouTube](https://www.youtube.com/watch?v=RlfLCWKxHJ0&list=PL693EFD059797C21E)
 - [How To Write Unmaintainable Code](https://www.thc.org/root/phun/unmaintain.html)
 
-### Refactoring
+#### Refactoring
 
 - [Alpha list of refactorings](refactoring.com/catalog/index.html)
 - [Refactoring to Patterns Catalog](industriallogic.com/xp/refactoring/catalog.html)
 
-### Design Patterns
+#### Design Patterns
 
 - [Factory Design Pattern - YouTube](www.youtube.com/watch?v=ub0DXaeV6hA)
 - [Design Patterns](sourcemaking.com/design_patterns)
 - [Software design pattern - Wikipedia, the free encyclopedia](en.wikipedia.org/wiki/Software_design_pattern)
 
-### Principles
+#### Principles
 
 - [10 Object Oriented Design principles Java programmer should know (guest post)](blog.jelastic.com/2013/02/25/10-object-oriented-design-principles-java-programmer-should-know-guest-post/)
 - [3 Key Software Principles You Must Understand](net.tutsplus.com/tutorials/tools-and-tips/3-key-software-principles-you-must-understand/)
@@ -197,12 +197,12 @@ Weekly internal sharing sessions that both enable and empower our developers, de
 - [Separation of Concerns | Effective Software Design](effectivesoftwaredesign.com/2012/02/05/separation-of-concerns/)
 - [Object Oriented Design - YouTube](https://www.youtube.com/watch?v=fJW65Wo7IHI&list=PLGLfVvz_LVvS5P7khyR4xDp7T9lCk9PgE)
 
-### Architecture
+#### Architecture
 
 - [Catalog of Patterns of Enterprise Application Architecture](www.martinfowler.com/eaaCatalog/index.html)
 - [fantastic-ios-architecture](https://github.com/onmyway133/fantastic-ios-architecture)
 
-### Clean Architecture
+#### Clean Architecture
 
 - [The delivery mechanism is an annoying detail - Coding the Architecture](www.codingthearchitecture.com/2011/11/06/the_delivery_mechanism_is_an_annoying_detail.html)
 - [The Clean Architecture | 8th Light](blog.8thlight.com/uncle-bob/2012/08/13/the-clean-architecture.html) :star:
@@ -212,7 +212,7 @@ Weekly internal sharing sessions that both enable and empower our developers, de
 - [android10/Android-CleanArchitecture](https://github.com/android10/Android-CleanArchitecture)
 - [Clean Architecture, by Luis Zamith of Group Buddies](https://blog.groupbuddies.com/posts/20-clean-architecture)
 
-# Groups
+## Groups
 
 - [Slack List](https://slacklist.info/) A handpicked selection of top Slack communities
 
