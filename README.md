@@ -214,23 +214,7 @@ Weekly internal sharing sessions that both enable and empower our developers, de
 
 # Groups
 
-iOS
-- iOS developers
-  - A Slack community for iOS developers with 5,000+ members and counting.
-  - https://ios-developers.slack.com/
-  - https://ios-developers.io/
-- Swifters
-  - https://swifters.slack.com/
-- RxSwift
-  - https://rxswift.slack.com
-  - http://slack.rxswift.org/
-Android
-- Android United
-  - https://android-united.slack.com
-  - http://alexnab.github.io/android-united/
-- Android Chat
-  - https://androidchat.slack.com
-  - https://androidchat.co/
+- [Slack List](https://slacklist.info/) A handpicked selection of top Slack communities
 
 Licence
 --
