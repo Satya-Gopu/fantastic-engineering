@@ -155,13 +155,16 @@ Weekly internal sharing sessions that both enable and empower our developers, de
 
 #### Books
 
-- [Clean Code: A Handbook of Agile Software Craftsmanship](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
+- [Clean Code: A Handbook of Agile Software Craftsmanship](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) :star:
 - [The Pragmatic Programmer: From Journeyman to Master](http://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X)
 - [Code Complete: A Practical Handbook of Software Construction, Second Edition 2nd Edition](http://www.amazon.com/Code-Complete-Practical-Handbook-Construction/dp/0735619670)
 - [The Clean Coder: A Code of Conduct for Professional Programmers](http://www.amazon.com/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073)
 - [Refactoring: Improving the Design of Existing Code](http://www.amazon.com/Refactoring-Improving-Design-Existing-Code/dp/0201485672)
 - [Agile Principles, Patterns, and Practices in C#](http://www.amazon.com/Agile-Principles-Patterns-Practices-C/dp/0131857258) :star:
 - [Refactoring to Patterns](http://www.amazon.com/Refactoring-Patterns-Joshua-Kerievsky/dp/0321213351)
+- [Effective Java](https://www.amazon.com/Effective-Java-2nd-Joshua-Bloch/dp/0321356683)
+- [Clean Architecture: A Craftsman's Guide to Software Structure and Design ](https://www.amazon.co.uk/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164)
+- [The Art of Unit Testing: with examples in C#](https://www.amazon.com/Art-Unit-Testing-examples/dp/1617290890) :star:
 
 #### General
 
