@@ -165,12 +165,13 @@ Weekly internal sharing sessions that both enable and empower our developers, de
 - [Effective Java](https://www.amazon.com/Effective-Java-2nd-Joshua-Bloch/dp/0321356683)
 - [Clean Architecture: A Craftsman's Guide to Software Structure and Design ](https://www.amazon.co.uk/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164)
 - [The Art of Unit Testing: with examples in C#](https://www.amazon.com/Art-Unit-Testing-examples/dp/1617290890) :star:
-
-#### General
-
 - [The Codist](thecodist.com)
 - [thoughtbot Learn : The Weekly Iteration: a show by thoughtbot](https://learn.thoughtbot.com/the-weekly-iteration)
 - [Clean Coders](https://cleancoders.com/landing)
+
+#### Posts
+
+- [Steps to better code](https://dev.to/isaacandsuch/steps-to-better-code)
 
 #### Clean Code
 
