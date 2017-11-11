@@ -46,6 +46,7 @@ Contents
 - [The company isn’t a family](https://m.signalvnoise.com/the-company-isnt-a-family-d24f26c3f3fe)
 - [Become — How I went from selling food in the street to working for top firms in tech](https://medium.com/@old_sound/become-how-i-went-from-selling-food-in-the-street-to-working-for-top-firms-in-tech-6aa61a2d0629)
 - [What have you learned after working at Facebook for almost two years?](https://hashnode.com/post/what-have-you-learned-after-working-at-facebook-for-almost-two-years-have-you-grown-as-a-developer-and-what-are-some-of-the-key-takeaways-cj7q3gkjx019xkhwujchsrtho)
+- [Productivity](https://www.swiftbysundell.com/meta/productivity)
 
 ## Playbook 🎠
 
