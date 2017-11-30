@@ -171,6 +171,13 @@ Weekly internal sharing sessions that both enable and empower our developers, de
 - [thoughtbot Learn : The Weekly Iteration: a show by thoughtbot](https://learn.thoughtbot.com/the-weekly-iteration)
 - [Clean Coders](https://cleancoders.com/landing)
 
+#### Channels
+
+- [Dave Xiang](https://www.youtube.com/user/daveXbang) Easy-to-understand technical videos.
+- [CS Dojo](https://www.youtube.com/channel/UCxX9wt5FWQUAAz4UrysqK9A) Help people learn more about programming, computer science, and tech career.
+- [Engineered Truth](https://www.youtube.com/user/EngineeredTruth) Helping people be rich instead of looking rich with realistic career videos.
+- [Simple Programmer](https://www.youtube.com/user/jsonmez) Career advice, programming tips
+ 
 #### Posts
 
 - [Steps to better code](https://dev.to/isaacandsuch/steps-to-better-code)
