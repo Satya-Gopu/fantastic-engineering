@@ -177,6 +177,7 @@ Weekly internal sharing sessions that both enable and empower our developers, de
 - [CS Dojo](https://www.youtube.com/channel/UCxX9wt5FWQUAAz4UrysqK9A) Help people learn more about programming, computer science, and tech career.
 - [Engineered Truth](https://www.youtube.com/user/EngineeredTruth) Helping people be rich instead of looking rich with realistic career videos.
 - [Simple Programmer](https://www.youtube.com/user/jsonmez) Career advice, programming tips
+- [Life at Google](https://www.youtube.com/channel/UCWIzrKzN4KY6BPU8hsk880Q) Everything that makes up life at Google.
  
 #### Posts
 
