@@ -57,6 +57,7 @@ Contents
 - Agens https://github.com/agensdev/playbook-ios
 - Artsy https://github.com/artsy/mobile/
 - Basecamp https://github.com/basecamp/handbook
+- Finn https://github.com/finn-no/ios-handbook
 
 ## Activities 🏃
 
