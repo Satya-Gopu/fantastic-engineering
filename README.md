@@ -48,6 +48,7 @@ Contents
 - [What have you learned after working at Facebook for almost two years?](https://hashnode.com/post/what-have-you-learned-after-working-at-facebook-for-almost-two-years-have-you-grown-as-a-developer-and-what-are-some-of-the-key-takeaways-cj7q3gkjx019xkhwujchsrtho)
 - [Productivity](https://www.swiftbysundell.com/meta/productivity)
 - [Mistakes New Developers Make](http://martiancraft.com/blog/2017/11/rookie-mistakes/)
+- [Things senior developers know](http://www.nichesoftware.co.nz/downloads/ThingsSeniorDevelopersKnow.pdf)
 
 ## Playbook 🎠
 
