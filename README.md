@@ -138,11 +138,6 @@ Weekly internal sharing sessions that both enable and empower our developers, de
 - [Pramp](https://www.pramp.com) Practice live technical interviews
 - [Byte by Byte](http://www.byte-by-byte.com/) Coding practice
 
-#### Startup 🥊
-
-- How to start a startup http://startupclass.samaltman.com/
-- FB Startup https://developers.facebook.com/fbstart
-
 ## Jobs
 
 #### Posts
@@ -275,9 +270,16 @@ Weekly internal sharing sessions that both enable and empower our developers, de
 - [android10/Android-CleanArchitecture](https://github.com/android10/Android-CleanArchitecture)
 - [Clean Architecture, by Luis Zamith of Group Buddies](https://blog.groupbuddies.com/posts/20-clean-architecture)
 
-## Groups
+## Misc
+
+### Groups
 
 - [Slack List](https://slacklist.info/) A handpicked selection of top Slack communities
+
+#### Startup 🥊
+
+- How to start a startup http://startupclass.samaltman.com/
+- FB Startup https://developers.facebook.com/fbstart
 
 Licence
 --
