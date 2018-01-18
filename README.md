@@ -92,6 +92,7 @@ Weekly internal sharing sessions that both enable and empower our developers, de
 - [Mistakes New Developers Make](http://martiancraft.com/blog/2017/11/rookie-mistakes/)
 - [Things senior developers know](http://www.nichesoftware.co.nz/downloads/ThingsSeniorDevelopersKnow.pdf)
 - [Steps to better code](https://dev.to/isaacandsuch/steps-to-better-code)
+- [Programmers who only code at work](https://dev.to/pungiish/programmers-who-only-code-at-work-bhp)
 
 #### Test
 
