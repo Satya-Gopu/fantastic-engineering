@@ -4,29 +4,71 @@ About software engineering
 
 ![](Screenshots/Banner.png)
 
-Contents
-==
+## Workplace
 
-<!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
+#### Playbook 🎠
 
-- [Posts](#posts-)
-- [Playbook](#playbook-)
-- [Activities](#activities-)
-- [Environment](#environment-)
-- [Test](#test)
-- [Blogs](#blogs-)
-- [Bookshelf](#bookshelf-)
-- [Course](#course-)
-- [Event](#event-)
-- [Practice](#practice-)
-- [Startup](#startup-)
-- [Career Steps](#career-steps-)
-- [Programming](#programming-)
-- [Groups](#groups)
+- Thoughtbot https://playbook.thoughtbot.com https://github.com/thoughtbot/guides
+- Hyper https://github.com/hyperoslo/iOS-playbook
+- Bakken & Bæck https://github.com/bakkenbaeck/iOS-playbook https://handbook.bakkenbaeck.com/
+- Agens https://github.com/agensdev/playbook-ios
+- Artsy https://github.com/artsy/mobile/
+- Basecamp https://github.com/basecamp/handbook
+- Finn https://github.com/finn-no/ios-handbook
 
-<!-- /TOC -->
+#### Activities 🏃
 
-## Posts 🍁
+- [Future Fridays](http://artsy.github.io/blog/2015/12/22/future-fridays/)
+We recently introduced "Future Fridays" to help dedicate time to longer-term, open-ended work despite these urgent temptations. Each Friday, we give ourselves permission to suspend our usual work
+- [ShipIt](https://www.atlassian.com/company/shipit)
+24 hours to innovate. It's like 20% time. On steroids. Find what inspires you. Develop that dream feature.
+- [Peer Lab](http://artsy.github.io/blog/2015/08/10/peer-lab/)
+Developers gather in a physical space to work on things. If someone has a question, they ask the group. If you can help, you offer assistance. The goal is to foster a collaborative learning environment where everyone feels fulfilled.
+- [Investment Time](https://thoughtbot.com/jobs)
+On Fridays, we have “investment time” when we learn new tools and techniques, work on open source, create new products, write blog posts, and try to make ourselves, each other, and the community better.
+- [Sharing Session](http://2359media.com/2014/10/29/perspective-what-i-learnt-from-a-serial-entrepreneur/)
+Weekly internal sharing sessions that both enable and empower our developers, designers and business development teams alike in expanding both technical and non-technical knowledge through mutual learning
+- [The Lab](https://medium.com/bakken-b%C3%A6ck/why-we-have-a-lab-e1f3ad6edc5f#.ew89pu31j) It has become an important place to learn making new stuff, test emerging technologies and build fun things.
+
+#### Perks 🛰
+
+- [Employee benefits at Basecamp](https://m.signalvnoise.com/employee-benefits-at-basecamp-d2d46fd06c58#.sowqf2pl7)
+- [Framework For Happiness](https://www.youtube.com/watch?v=i0FzgvYxdvk)
+- [Perks and Recreation](https://medium.com/bakken-b%C3%A6ck/perks-and-recreation-374abdea5f5b)
+
+#### Blogs 🎢
+
+- Artsy http://artsy.github.io/ :rocket:
+- Apple https://swift.org/blog/
+- Thoughtbot https://robots.thoughtbot.com/
+- Yalantis https://yalantis.com/blog/
+- 2359 Media http://engineering.2359media.net/
+- Raizlabs http://www.raizlabs.com/dev/
+- Atomic Object http://spin.atomicobject.com/
+- Elabs http://www.elabs.se/blog
+- Parse http://blog.parse.com/
+- Badoo https://techblog.badoo.com/
+- Outware http://www.outware.com.au/insights/
+- Facebook https://code.facebook.com/posts/ http://makeitopen.com/ :star:
+- Twitter https://blog.twitter.com/engineering
+- Yelp http://engineeringblog.yelp.com/
+- Macoscope http://macoscope.com/blog/
+- Airbnb http://nerds.airbnb.com/
+- Tumblr https://engineering.tumblr.com
+- Joel on Software https://www.joelonsoftware.com/ :rocket:
+- Coding Horror https://blog.codinghorror.com/ :rocket:
+
+#### Career Steps 🏇
+
+- [Sharing Our Engineering Ladder](http://dresscode.renttherunway.com/blog/ladder)
+- [Engineering Ladders – Helping Engineers Along Their Way](http://engineering.chartbeat.com/2015/06/05/engineering-ladders/)
+- [techladder](https://github.com/urbanairship/techladder)
+- [Spotify Technology Career Steps](https://labs.spotify.com/2016/02/15/spotify-technology-career-steps/)2
+- [Titles for programmers](https://github.com/basecamp/handbook/blob/master/titles-for-programmers.md)
+
+## Engineering
+
+#### Posts
 
 - [15 things I wish I’d learned earlier about software engineering](https://medium.com/@kyleve/15-things-i-wish-id-learned-earlier-about-software-engineering-c9a4b16d36de)
 - [The Ten Commandments of Egoless Programming](http://blog.codinghorror.com/the-ten-commandments-of-egoless-programming/)
@@ -49,37 +91,9 @@ Contents
 - [Productivity](https://www.swiftbysundell.com/meta/productivity)
 - [Mistakes New Developers Make](http://martiancraft.com/blog/2017/11/rookie-mistakes/)
 - [Things senior developers know](http://www.nichesoftware.co.nz/downloads/ThingsSeniorDevelopersKnow.pdf)
+- [Steps to better code](https://dev.to/isaacandsuch/steps-to-better-code)
 
-## Playbook 🎠
-
-- Thoughtbot https://playbook.thoughtbot.com https://github.com/thoughtbot/guides
-- Hyper https://github.com/hyperoslo/iOS-playbook
-- Bakken & Bæck https://github.com/bakkenbaeck/iOS-playbook https://handbook.bakkenbaeck.com/
-- Agens https://github.com/agensdev/playbook-ios
-- Artsy https://github.com/artsy/mobile/
-- Basecamp https://github.com/basecamp/handbook
-- Finn https://github.com/finn-no/ios-handbook
-
-## Activities 🏃
-
-- [Future Fridays](http://artsy.github.io/blog/2015/12/22/future-fridays/)
-We recently introduced "Future Fridays" to help dedicate time to longer-term, open-ended work despite these urgent temptations. Each Friday, we give ourselves permission to suspend our usual work
-- [ShipIt](https://www.atlassian.com/company/shipit)
-24 hours to innovate. It's like 20% time. On steroids. Find what inspires you. Develop that dream feature.
-- [Peer Lab](http://artsy.github.io/blog/2015/08/10/peer-lab/)
-Developers gather in a physical space to work on things. If someone has a question, they ask the group. If you can help, you offer assistance. The goal is to foster a collaborative learning environment where everyone feels fulfilled.
-- [Investment Time](https://thoughtbot.com/jobs)
-On Fridays, we have “investment time” when we learn new tools and techniques, work on open source, create new products, write blog posts, and try to make ourselves, each other, and the community better.
-- [Sharing Session](http://2359media.com/2014/10/29/perspective-what-i-learnt-from-a-serial-entrepreneur/)
-Weekly internal sharing sessions that both enable and empower our developers, designers and business development teams alike in expanding both technical and non-technical knowledge through mutual learning
-- [The Lab](https://medium.com/bakken-b%C3%A6ck/why-we-have-a-lab-e1f3ad6edc5f#.ew89pu31j) It has become an important place to learn making new stuff, test emerging technologies and build fun things.
-
-## Environment 🛰
-
-- [Employee benefits at Basecamp](https://m.signalvnoise.com/employee-benefits-at-basecamp-d2d46fd06c58#.sowqf2pl7)
-- [Framework For Happiness](https://www.youtube.com/watch?v=i0FzgvYxdvk)
-
-## Test
+#### Test
 
 - Just Eat https://github.com/justeat/JustEat.RecruitmentTest
 - Babylon Health https://github.com/Babylonpartners/iOS-Interview-Demo
@@ -87,35 +101,13 @@ Weekly internal sharing sessions that both enable and empower our developers, de
 - Badoo Coding Challenge https://challenge.badoo.com/
 - Spotify Puzzle https://labs.spotify.com/puzzles/
 
-## Blogs 🎢
-
-- Artsy http://artsy.github.io/ :rocket:
-- Apple https://swift.org/blog/
-- Thoughtbot https://robots.thoughtbot.com/
-- Yalantis https://yalantis.com/blog/
-- 2359 Media http://engineering.2359media.net/
-- Raizlabs http://www.raizlabs.com/dev/
-- Atomic Object http://spin.atomicobject.com/
-- Elabs http://www.elabs.se/blog
-- Parse http://blog.parse.com/
-- Badoo https://techblog.badoo.com/
-- Outware http://www.outware.com.au/insights/
-- Facebook https://code.facebook.com/posts/ http://makeitopen.com/ :star:
-- Twitter https://blog.twitter.com/engineering
-- Yelp http://engineeringblog.yelp.com/
-- Macoscope http://macoscope.com/blog/
-- Airbnb http://nerds.airbnb.com/
-- Tumblr https://engineering.tumblr.com
-- Joel on Software https://www.joelonsoftware.com/ :rocket:
-- Coding Horror https://blog.codinghorror.com/ :rocket:
-
-## Bookshelf 📕
+#### Bookshelf 📕
 
 - The Pragmatic Bookshelf https://pragprog.com/titles
 - Leanpub https://leanpub.com/
 - Packt Publishing https://www.packtpub.com/
 
-## Course 📚
+#### Course 📚
 
 - Upcase https://upcase.com
 - Egghead https://egghead.io/
@@ -128,11 +120,11 @@ Weekly internal sharing sessions that both enable and empower our developers, de
 - Free code camp https://www.freecodecamp.com/ 🐝
 - Udacity Nanodegree https://www.udacity.com/nanodegree/plus 🚀
 
-## Event ✈️
+#### Event ✈️
 
 - hack.summit() https://hacksummit.org/
 
-## Practice 🏋️
+#### Practice 🏋️
 
 - Codewar http://www.codewars.com
 - Hacker Rank https://www.hackerrank.com/
@@ -141,30 +133,25 @@ Weekly internal sharing sessions that both enable and empower our developers, de
 - Code Combat http://codecombat.com
 - Coding Game https://www.codingame.com/start
 - Hacker Trail https://www.hackertrail.com/
+- [interviewing.io](https://interviewing.io/) Practice interviews with engineers from top companies, anonymously
+- [Pramp](https://www.pramp.com) Practice live technical interviews
+- [Byte by Byte](http://www.byte-by-byte.com/) Coding practice
 
-## Startup 🥊
+#### Startup 🥊
 
 - How to start a startup http://startupclass.samaltman.com/
 - FB Startup https://developers.facebook.com/fbstart
 
-## Career Steps 🏇
+## Jobs
 
-- [Sharing Our Engineering Ladder](http://dresscode.renttherunway.com/blog/ladder)
-- [Engineering Ladders – Helping Engineers Along Their Way](http://engineering.chartbeat.com/2015/06/05/engineering-ladders/)
-- [techladder](https://github.com/urbanairship/techladder)
-- [Spotify Technology Career Steps](https://labs.spotify.com/2016/02/15/spotify-technology-career-steps/)2
-- [Titles for programmers](https://github.com/basecamp/handbook/blob/master/titles-for-programmers.md)
-
-## Misc
-
-### Posts
+#### Posts
 
 - [freelance-contract](https://github.com/ashedryden/freelance-contract) freelance
 - [On Hiring](https://www.getrevue.co/profile/hunglee)
 - [When we only hire the best means we only hire the trendiest](https://danluu.com/programmer-moneyball/)
 - [I interviewed at five top companies in Silicon Valley in five days, and luckily got five job offers](https://medium.com/@XiaohanZeng/i-interviewed-at-five-top-companies-in-silicon-valley-in-five-days-and-luckily-got-five-job-offers-25178cf74e0f)
 
-### Salary
+#### Salary
 
 - [Calculate your salary](https://stackoverflow.com/jobs/salary)
 - [Fall 2015 Salary Detail](https://docs.google.com/spreadsheets/u/1/d/1UnLz40Our1Ids-O0sz26uPNCF6cQjwosrZQY4VLdflU/htmlview?pli=1&sle=true#)
@@ -172,7 +159,7 @@ Weekly internal sharing sessions that both enable and empower our developers, de
 - [Startup Salary & Equity Share](https://angel.co/salaries)
 - [TripleByte salary data](https://triplebyte.com/software-engineer-salary)
 
-### Resume
+#### Resume
 
 - [JSON Resume](http://jsonresume.org/) json
 - [markdown-resume](https://github.com/there4/markdown-resume) markdown
@@ -181,19 +168,13 @@ Weekly internal sharing sessions that both enable and empower our developers, de
 - [best-resume-ever](https://github.com/salomonelli/best-resume-ever) Build fast and easy multiple beautiful resumes
 - [uses this interviews](https://usesthis.com/) What do people use to get the job done?
 
-### Practice
-
-- [interviewing.io](https://interviewing.io/) Practice interviews with engineers from top companies, anonymously
-- [Pramp](https://www.pramp.com) Practice live technical interviews
-- [Byte by Byte](http://www.byte-by-byte.com/) Coding practice
-
-### Challenges
+#### Challenges
 
 - [GermanAutolabs iOS-coding-challenge](https://github.com/GermanAutolabs/iOS-coding-challenge) iOS coding challenge for German Autolabs
 - [Holmusk Engineering-Challenge-iOS](https://github.com/Holmusk/Engineering-Challenge-iOS) Holmusk iOS Engineering Challenge http://holmusk.com
 - [Babylonpartners iOS-Interview-Demo](https://github.com/Babylonpartners/iOS-Interview-Demo) Interview Demo Project for babylon health
 
-### Interviewee
+#### Interviewee
 
 - [Recruiting Advice No One Tells You](https://medium.com/@drogier/recruiting-advice-no-one-tells-you-5ae6fb285d1)
 - [INTERVIEWING @ GOOGLE](http://www.catehuston.com/blog/2010/07/13/interviewing-google/)
@@ -211,7 +192,7 @@ Weekly internal sharing sessions that both enable and empower our developers, de
 - [CS Dojo](https://www.youtube.com/channel/UCxX9wt5FWQUAAz4UrysqK9A) :rocket:
 - [Interviewing, applying and getting your first job in iOS](https://artsy.github.io/blog/2016/01/30/iOS-Junior-Interviews/)
 
-### Interviewer
+#### Interviewer
 
 - [This is why you never end up hiring good developers](http://qz.com/258066/this-is-why-you-dont-hire-good-developers/)
 - [Effective Programing: More than writing code](http://www.amazon.com/Effective-Programming-More-Than-Writing-ebook/dp/B008HUMTO0) Hiring Programmers The Right Way
@@ -224,7 +205,7 @@ Weekly internal sharing sessions that both enable and empower our developers, de
 - [Not another Android Interviews’ article: Think it through](https://medium.com/@neteinstein/not-another-android-interviews-article-think-it-through-7b6554bc23db#.7ps740ydd)
 - [Engineering Interview at Atlassian Sydney](https://www.youtube.com/watch?v=hP6Bnis8rsY)
 
-## Programming 🐣
+## Learning 🐣
 
 #### Books
 
@@ -250,10 +231,6 @@ Weekly internal sharing sessions that both enable and empower our developers, de
 - [Simple Programmer](https://www.youtube.com/user/jsonmez) Career advice, programming tips
 - [Life at Google](https://www.youtube.com/channel/UCWIzrKzN4KY6BPU8hsk880Q) Everything that makes up life at Google.
  
-#### Posts
-
-- [Steps to better code](https://dev.to/isaacandsuch/steps-to-better-code)
-
 #### Clean Code
 
 - [▶ Clean Code - YouTube](www.youtube.com/watch?v=HZJxjlvBbVA)
