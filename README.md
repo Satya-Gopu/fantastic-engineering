@@ -272,7 +272,7 @@ Weekly internal sharing sessions that both enable and empower our developers, de
 
 ## Misc
 
-### Groups
+#### Groups
 
 - [Slack List](https://slacklist.info/) A handpicked selection of top Slack communities
 
