@@ -35,6 +35,7 @@ Weekly internal sharing sessions that both enable and empower our developers, de
 - [Employee benefits at Basecamp](https://m.signalvnoise.com/employee-benefits-at-basecamp-d2d46fd06c58#.sowqf2pl7)
 - [Framework For Happiness](https://www.youtube.com/watch?v=i0FzgvYxdvk)
 - [Perks and Recreation](https://medium.com/bakken-b%C3%A6ck/perks-and-recreation-374abdea5f5b)
+- [Basecamp doesn’t employ anyone in San Francisco, but now we pay everyone as though all did](https://m.signalvnoise.com/basecamp-doesnt-employ-anyone-in-san-francisco-but-now-we-pay-everyone-as-though-all-did-3ee87013cfc2)
 
 #### Blogs 🎢
 
