@@ -185,6 +185,7 @@ Weekly internal sharing sessions that both enable and empower our developers, de
 - [Software Engineering: Interviews](https://medium.com/@AndyyHope/software-engineering-interviews-744380f4f2af)
 - [CS Dojo](https://www.youtube.com/channel/UCxX9wt5FWQUAAz4UrysqK9A) :rocket:
 - [Interviewing, applying and getting your first job in iOS](https://artsy.github.io/blog/2016/01/30/iOS-Junior-Interviews/)
+- [What I Learned Doing 250 Interviews at Google](https://www.youtube.com/watch?v=r8RxkpUvxK0)
 
 #### Interviewer
 
