@@ -92,6 +92,10 @@ Weekly internal sharing sessions that both enable and empower our developers, de
 - [Steps to better code](https://dev.to/isaacandsuch/steps-to-better-code)
 - [Programmers who only code at work](https://dev.to/pungiish/programmers-who-only-code-at-work-bhp)
 
+#### Code Review
+
+- [On Writing Software Well](https://m.signalvnoise.com/on-writing-software-well-aee3780767a6)
+
 #### Test
 
 - Just Eat https://github.com/justeat/JustEat.RecruitmentTest
