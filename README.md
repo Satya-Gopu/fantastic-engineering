@@ -104,6 +104,11 @@ Weekly internal sharing sessions that both enable and empower our developers, de
 - Badoo Coding Challenge https://challenge.badoo.com/
 - Spotify Puzzle https://labs.spotify.com/puzzles/
 
+#### Engineering Manager
+
+- [On being an Engineering Manager](https://ruiper.es/2018/01/15/on-being-an-engineering-manager/)
+- [Flavors of Engineering Management](http://blog.benjamin-encz.de/post/flavors-of-engineering-management/)
+
 #### Bookshelf 📕
 
 - The Pragmatic Bookshelf https://pragprog.com/titles
