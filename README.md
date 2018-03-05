@@ -141,7 +141,7 @@ Weekly internal sharing sessions that both enable and empower our developers, de
 - Code Combat http://codecombat.com
 - Coding Game https://www.codingame.com/start
 - Hacker Trail https://www.hackertrail.com/
-- LeetCode https://leetcode.com/
+- LeetCode https://leetcode.com/ 💪💪💪
 - [interviewing.io](https://interviewing.io/) Practice interviews with engineers from top companies, anonymously
 - [Pramp](https://www.pramp.com) Practice live technical interviews
 - [Byte by Byte](http://www.byte-by-byte.com/) Coding practice
