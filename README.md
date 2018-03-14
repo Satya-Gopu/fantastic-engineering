@@ -197,6 +197,7 @@ Weekly internal sharing sessions that both enable and empower our developers, de
 - [Interviewing, applying and getting your first job in iOS](https://artsy.github.io/blog/2016/01/30/iOS-Junior-Interviews/)
 - [What I Learned Doing 250 Interviews at Google](https://www.youtube.com/watch?v=r8RxkpUvxK0)
 - [Do I Want To Work In This Company, or What Questions To Ask On An Interview](https://dev.to/ice_lenor/do-i-want-to-work-in-this-company-or-what-questions-to-ask-on-an-interview-7po)
+- [How I landed offers from Microsoft, Amazon, and Twitter without an Ivy League degree](https://medium.freecodecamp.org/how-i-landed-offers-from-microsoft-amazon-and-twitter-without-an-ivy-league-degree-d62cfe286eb8)
 
 #### Interviewer
 
