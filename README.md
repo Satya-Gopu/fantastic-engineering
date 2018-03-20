@@ -127,6 +127,7 @@ Weekly internal sharing sessions that both enable and empower our developers, de
 - Microsoft Virtual Academy https://mva.microsoft.com/
 - Free code camp https://www.freecodecamp.com/ 🐝
 - Udacity Nanodegree https://www.udacity.com/nanodegree/plus 🚀
+- [Learn to code with live streams from the best developers!](https://dev.to/iriskatastic/learn-to-code-with-live-streams-from-the-best-developers-5fk4)
 
 #### Event ✈️
 
