@@ -91,6 +91,7 @@ Weekly internal sharing sessions that both enable and empower our developers, de
 - [Things senior developers know](http://www.nichesoftware.co.nz/downloads/ThingsSeniorDevelopersKnow.pdf)
 - [Steps to better code](https://dev.to/isaacandsuch/steps-to-better-code)
 - [Programmers who only code at work](https://dev.to/pungiish/programmers-who-only-code-at-work-bhp)
+- [30 best practices for software development and testing](https://opensource.com/article/17/5/30-best-practices-software-development-and-testing)
 
 #### Code Review
 
