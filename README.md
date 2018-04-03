@@ -92,6 +92,7 @@ Weekly internal sharing sessions that both enable and empower our developers, de
 - [Steps to better code](https://dev.to/isaacandsuch/steps-to-better-code)
 - [Programmers who only code at work](https://dev.to/pungiish/programmers-who-only-code-at-work-bhp)
 - [30 best practices for software development and testing](https://opensource.com/article/17/5/30-best-practices-software-development-and-testing)
+- [The Developer’s Edge: How To Become A Senior Developer](https://hackernoon.com/developers-edge-how-to-become-a-senior-developer-f1ec1738cf45)
 
 #### Code Review
 
