@@ -231,7 +231,6 @@ Weekly internal sharing sessions that both enable and empower our developers, de
 - [The Art of Unit Testing: with examples in C#](https://www.amazon.com/Art-Unit-Testing-examples/dp/1617290890) :star:
 - [The Codist](thecodist.com)
 - [thoughtbot Learn : The Weekly Iteration: a show by thoughtbot](https://learn.thoughtbot.com/the-weekly-iteration)
-- [Clean Coders](https://cleancoders.com/landing)
 
 #### Channels
 
@@ -240,11 +239,12 @@ Weekly internal sharing sessions that both enable and empower our developers, de
 - [Engineered Truth](https://www.youtube.com/user/EngineeredTruth) Helping people be rich instead of looking rich with realistic career videos.
 - [Simple Programmer](https://www.youtube.com/user/jsonmez) Career advice, programming tips
 - [Life at Google](https://www.youtube.com/channel/UCWIzrKzN4KY6BPU8hsk880Q) Everything that makes up life at Google.
-- [Destroy all software screencasts](https://www.destroyallsoftware.com/screencasts) 
- 
+- [Destroy all software screencasts](https://www.destroyallsoftware.com/screencasts) :rocket:
+- [Clean Coders](https://cleancoders.com/landing) :rocket:
+
 #### Clean Code
 
-- [▶ Clean Code - YouTube](www.youtube.com/watch?v=HZJxjlvBbVA)
+- [▶ Clean Code - YouTube](https://www.youtube.com/watch?v=HZJxjlvBbVA)
 - [The Clean Code Talks - Don't Look For Things! - YouTube](https://www.youtube.com/watch?v=RlfLCWKxHJ0&list=PL693EFD059797C21E)
 - [How To Write Unmaintainable Code](https://www.thc.org/root/phun/unmaintain.html)
 
