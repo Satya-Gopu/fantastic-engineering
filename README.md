@@ -6,11 +6,11 @@ About software engineering
 
 ## Table of content
 
-- [Workplace](#workplace)
-- [Engineering](#engineering)
-- [Jobs](#jobs)
-- [Learning](#learning)
-- [Misc](#misc)
+- [🎢 Workplace](#workplace)
+- [✈️ Engineering](#engineering)
+- [🏄‍♀️ Jobs](#jobs)
+- [🐣 Learning](#learning)
+- [🏋️ Misc](#misc)
 
 ## Workplace
 
@@ -223,7 +223,7 @@ Weekly internal sharing sessions that both enable and empower our developers, de
 - [Not another Android Interviews’ article: Think it through](https://medium.com/@neteinstein/not-another-android-interviews-article-think-it-through-7b6554bc23db#.7ps740ydd)
 - [Engineering Interview at Atlassian Sydney](https://www.youtube.com/watch?v=hP6Bnis8rsY)
 
-## Learning 🐣
+## Learning
 
 #### Books
 
