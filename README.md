@@ -240,6 +240,7 @@ Weekly internal sharing sessions that both enable and empower our developers, de
 - [Engineered Truth](https://www.youtube.com/user/EngineeredTruth) Helping people be rich instead of looking rich with realistic career videos.
 - [Simple Programmer](https://www.youtube.com/user/jsonmez) Career advice, programming tips
 - [Life at Google](https://www.youtube.com/channel/UCWIzrKzN4KY6BPU8hsk880Q) Everything that makes up life at Google.
+- [Destroy all software screencasts](https://www.destroyallsoftware.com/screencasts) 
  
 #### Clean Code
 
