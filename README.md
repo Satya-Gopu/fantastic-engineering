@@ -71,6 +71,7 @@ Weekly internal sharing sessions that both enable and empower our developers, de
 - [techladder](https://github.com/urbanairship/techladder)
 - [Spotify Technology Career Steps](https://labs.spotify.com/2016/02/15/spotify-technology-career-steps/)
 - [Titles for programmers](https://github.com/basecamp/handbook/blob/master/titles-for-programmers.md)
+- [Engineering Levels at SoundCloud](https://developers.soundcloud.com/blog/engineering-levels)
 
 ## Engineering
 
