@@ -119,6 +119,7 @@ Weekly internal sharing sessions that both enable and empower our developers, de
 
 - [On being an Engineering Manager](https://ruiper.es/2018/01/15/on-being-an-engineering-manager/)
 - [Flavors of Engineering Management](http://blog.benjamin-encz.de/post/flavors-of-engineering-management/)
+- [How to be a manager](https://getweeklyupdate.com/manager-guide)
 
 #### Bookshelf 📕
 
